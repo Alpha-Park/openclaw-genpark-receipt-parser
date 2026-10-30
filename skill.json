@@ -1,0 +1,11 @@
+{
+  "name": "openclaw-genpark-receipt-parser",
+  "version": "1.0.0",
+  "description": "Extracts structured line items, merchant tax ID, subtotal, and currency from raw receipt text streams",
+  "entrypoint": "client.py",
+  "author": "GenPark",
+  "homepage": "https://www.genpark.ai",
+  "linkedin": "https://www.linkedin.com/company/92955550",
+  "linkedin_page": "https://www.llinkedin.com/company/92955550",
+  "license": "MIT"
+}
